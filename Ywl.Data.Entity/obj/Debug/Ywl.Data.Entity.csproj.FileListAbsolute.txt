@@ -1,0 +1,11 @@
+C:\Users\于万里\Source\Repos\WebApplication1\Ywl.Data.Entity\bin\Debug\Ywl.Data.Entity.dll.config
+C:\Users\于万里\Source\Repos\WebApplication1\Ywl.Data.Entity\bin\Debug\Ywl.Data.Entity.dll
+C:\Users\于万里\Source\Repos\WebApplication1\Ywl.Data.Entity\bin\Debug\Ywl.Data.Entity.pdb
+C:\Users\于万里\Source\Repos\WebApplication1\Ywl.Data.Entity\bin\Debug\EntityFramework.dll
+C:\Users\于万里\Source\Repos\WebApplication1\Ywl.Data.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\于万里\Source\Repos\WebApplication1\Ywl.Data.Entity\bin\Debug\EntityFramework.xml
+C:\Users\于万里\Source\Repos\WebApplication1\Ywl.Data.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\于万里\Source\Repos\WebApplication1\Ywl.Data.Entity\obj\Debug\Ywl.Data.Entity.csproj.CoreCompileInputs.cache
+C:\Users\于万里\Source\Repos\WebApplication1\Ywl.Data.Entity\obj\Debug\Ywl.Data.Entity.csproj.CopyComplete
+C:\Users\于万里\Source\Repos\WebApplication1\Ywl.Data.Entity\obj\Debug\Ywl.Data.Entity.dll
+C:\Users\于万里\Source\Repos\WebApplication1\Ywl.Data.Entity\obj\Debug\Ywl.Data.Entity.pdb
